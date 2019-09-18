@@ -1,0 +1,21 @@
+html {
+    position: relative;
+    min-width: 1366px;
+    min-height: 768px;
+    height: 100%;
+}
+
+div {
+	position: absolute;
+	top: 34%;
+	left: 41%;
+	float: center;
+}
+
+input {
+	padding: 10px;
+	width: 60px;
+    height: 60px;
+	margin: 10px 10px 10px 10px;
+	border: 1px solid Gray;
+}
